@@ -1,9 +1,10 @@
 # pandas-challenge
-# School District Data Analysis
+
+## School District Data Analysis
 
 This repository contains code and data for analyzing the district-wide standardized test results of a school district. The goal of this analysis is to identify trends and patterns in school performance based on math and reading scores, as well as other information about the schools.
 
-## Background
+### Background
 
 As the Chief Data Scientist for the city's school district, your role is to assist the school board and mayor in making informed decisions regarding school budgets and priorities. To fulfill this responsibility, you have been assigned the task of analyzing the district-wide standardized test results.
 
@@ -13,10 +14,11 @@ You will have access to a dataset that includes math and reading scores for ever
 
 This repository contains the following files:
 
-- `data/`: This directory contains the dataset files required for the analysis.
+- `Resources/`: This directory contains the dataset files required for the analysis.
   - `students.csv`: CSV file containing information about students, including their math and reading scores.
   - `schools.csv`: CSV file containing information about the schools, including their names and various attributes.
-- `analysis.ipynb`: Jupyter Notebook file containing the code for data analysis and manipulation using Pandas DataFrames.
+- `PyCitySchools_starter-solution.ipynb`: Jupyter Notebook file containing the code for data analysis and manipulation using Pandas DataFrames.
+- `PyCitySchools_starter-format.ipynb`: Jupyter Notebook file containing the original for data analysis and manipulation using Pandas DataFrames.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 
 ## Getting Started
@@ -58,14 +60,14 @@ If you would like to contribute to this project, you can follow these steps:
 
 Please ensure that your contributions align with the goals of the project and adhere to the coding standards and best practices.
 
-## License
+## Note
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and data as per the terms of the license.
+Ensure that you have the necessary permissions to read the dataset file and write the analysis results file in the execution directory.
+
+Feel free to modify the script or adapt it to fit your specific needs.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact [your name] at [your email address].
+If you have any questions, suggestions, or feedback, please feel free to contact me at emilioaristegui@outlook.com
 
 Thank you for your interest in this project!
-
-## 
